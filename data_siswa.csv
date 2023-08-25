@@ -1,31 +1,31 @@
-nama,tempat_lahir,tanggal_lahir,KELAMIN,Nama Ayah,Nama Ibu,Pekerjaan Ayah,Pekerjaan Ibu
-Ahmad,Surabaya,01/01/2005,Laki-laki,Budi,Siti,Pegawai Swasta,Ibu Rumah Tangga
-Budi,Jakarta,02/02/2005,Laki-laki,Agus,Rina,Pegawai Negeri,Sekretaris
-Citra,Bandung,03/03/2005,Perempuan,Dedi,Ani,Pedagang,Ibu Rumah Tangga
-Dewi,Semarang,04/04/2005,Perempuan,Edi,Ita,Pegawai Swasta,Pegawai Swasta
-Eka,Yogyakarta,05/05/2005,Perempuan,Fajar,Desi,Pegawai Negeri,Ibu Rumah Tangga
-Fajar,Surabaya,06/06/2005,Laki-laki,Gunawan,Sari,Pedagang,Ibu Rumah Tangga
-Gita,Jakarta,07/07/2005,Perempuan,Hadi,Siti,Pegawai Swasta,Ibu Rumah Tangga
-Hadi,Bandung,08/08/2005,Laki-laki,Indra,Ani,Pegawai Negeri,Pegawai Swasta
-Indra,Semarang,09/09/2005,Laki-laki,Joko,Ita,Pedagang,Ibu Rumah Tangga
-Joko,Yogyakarta,10/10/2005,Laki-laki,Krisna,Desi,Pegawai Swasta,Pegawai Negeri
-Krisna,Surabaya,11/11/2005,Laki-laki,Lukman,Sari,Pegawai Negeri,Ibu Rumah Tangga
-Lukman,Jakarta,12/12/2005,Laki-laki,Maman,Siti,Pedagang,Ibu Rumah Tangga
-Maman,Bandung,13/01/2006,Laki-laki,Nanang,Ani,Pegawai Swasta,Pegawai Swasta
-Nanang,Semarang,14/02/2006,Laki-laki,Oscar,Ita,Pegawai Negeri,Ibu Rumah Tangga
-Oscar,Yogyakarta,15/03/2006,Laki-laki,Pramono,Desi,Pedagang,Ibu Rumah Tangga
-Pramono,Surabaya,16/04/2006,Laki-laki,Qori,Sari,Pegawai Swasta,Ibu Rumah Tangga
-Qori,Jakarta,17/05/2006,Laki-laki,Rahman,Siti,Pegawai Negeri,Pegawai Swasta
-Rahman,Bandung,18/06/2006,Laki-laki,Sigit,Ani,Pedagang,Ibu Rumah Tangga
-Sigit,Semarang,19/07/2006,Laki-laki,Taufik,Ita,Pegawai Swasta,Ibu Rumah Tangga
-Taufik,Yogyakarta,20/08/2006,Laki-laki,Umar,Desi,Pegawai Negeri,Pegawai Swasta
-Umar,Surabaya,21/09/2006,Laki-laki,Viktor,Sari,Pedagang,Ibu Rumah Tangga
-Viktor,Jakarta,22/10/2006,Laki-laki,Wahyu,Siti,Pegawai Swasta,Ibu Rumah Tangga
-Wahyu,Bandung,23/11/2006,Laki-laki,Xavier,Ani,Pegawai Negeri,Pegawai Swasta
-Xavier,Semarang,24/12/2006,Laki-laki,Yusuf,Ita,Pedagang,Ibu Rumah Tangga
-Yusuf,Yogyakarta,25/01/2007,Laki-laki,Zainal,Desi,Pegawai Swasta,Pegawai Swasta
-Zainal,Surabaya,26/02/2007,Laki-laki,Agus,Sari,Pegawai Negeri,Ibu Rumah Tangga
-Agus,Jakarta,27/03/2007,Laki-laki,Budi,Siti,Pedagang,Ibu Rumah Tangga
-Budi,Bandung,28/04/2007,Laki-laki,Citra,Ani,Pegawai Swasta,Pegawai Swasta
-Citra,Semarang,29/05/2007,Perempuan,Dewi,Ita,Pegawai Negeri,Ibu Rumah Tangga
-Dewi,Yogyakarta,30/06/2007,Perempuan,Eka,Desi,Pedagang,Ibu Rumah Tangga
+﻿nama,tempat_lahir,tanggal_lahir,KELAMIN,Nama Ayah,Nama Ibu,Pekerjaan Ayah,Pekerjaan Ibu,umur
+Ahmad,Surabaya,01/01/2005,Laki-laki,Budi,Siti,Pegawai Swasta,Ibu Rumah Tangga,16
+Budi,Jakarta,02/02/2005,Laki-laki,Agus,Rina,Pegawai Negeri,Sekretaris,16
+Citra,Bandung,03/03/2005,Perempuan,Dedi,Ani,Pedagang,Ibu Rumah Tangga,17
+Dewi,Semarang,04/04/2005,Perempuan,Edi,Ita,Pegawai Swasta,Pegawai Swasta,18
+Eka,Yogyakarta,05/05/2005,Perempuan,Fajar,Desi,Pegawai Negeri,Ibu Rumah Tangga,17
+Fajar,Surabaya,06/06/2005,Laki-laki,Gunawan,Sari,Pedagang,Ibu Rumah Tangga,14
+Gita,Jakarta,07/07/2005,Perempuan,Hadi,Siti,Pegawai Swasta,Ibu Rumah Tangga,16
+Hadi,Bandung,08/08/2005,Laki-laki,Indra,Ani,Pegawai Negeri,Pegawai Swasta,17
+Indra,Semarang,09/09/2005,Laki-laki,Joko,Ita,Pedagang,Ibu Rumah Tangga,19
+Joko,Yogyakarta,10/10/2005,Laki-laki,Krisna,Desi,Pegawai Swasta,Pegawai Negeri,15
+Krisna,Surabaya,11/11/2005,Laki-laki,Lukman,Sari,Pegawai Negeri,Ibu Rumah Tangga,18
+Lukman,Jakarta,12/12/2005,Laki-laki,Maman,Siti,Pedagang,Ibu Rumah Tangga,15
+Maman,Bandung,13/01/2006,Laki-laki,Nanang,Ani,Pegawai Swasta,Pegawai Swasta,16
+Nanang,Semarang,14/02/2006,Laki-laki,Oscar,Ita,Pegawai Negeri,Ibu Rumah Tangga,14
+Oscar,Yogyakarta,15/03/2006,Laki-laki,Pramono,Desi,Pedagang,Ibu Rumah Tangga,17
+Pramono,Surabaya,16/04/2006,Laki-laki,Qori,Sari,Pegawai Swasta,Ibu Rumah Tangga,18
+Qori,Jakarta,17/05/2006,Laki-laki,Rahman,Siti,Pegawai Negeri,Pegawai Swasta,16
+Rahman,Bandung,18/06/2006,Laki-laki,Sigit,Ani,Pedagang,Ibu Rumah Tangga,16
+Sigit,Semarang,19/07/2006,Laki-laki,Taufik,Ita,Pegawai Swasta,Ibu Rumah Tangga,16
+Taufik,Yogyakarta,20/08/2006,Laki-laki,Umar,Desi,Pegawai Negeri,Pegawai Swasta,17
+Umar,Surabaya,21/09/2006,Laki-laki,Viktor,Sari,Pedagang,Ibu Rumah Tangga,19
+Viktor,Jakarta,22/10/2006,Laki-laki,Wahyu,Siti,Pegawai Swasta,Ibu Rumah Tangga,15
+Wahyu,Bandung,23/11/2006,Laki-laki,Xavier,Ani,Pegawai Negeri,Pegawai Swasta,18
+Xavier,Semarang,24/12/2006,Laki-laki,Yusuf,Ita,Pedagang,Ibu Rumah Tangga,15
+Yusuf,Yogyakarta,25/01/2007,Laki-laki,Zainal,Desi,Pegawai Swasta,Pegawai Swasta,16
+Zainal,Surabaya,26/02/2007,Laki-laki,Agus,Sari,Pegawai Negeri,Ibu Rumah Tangga,14
+Agus,Jakarta,27/03/2007,Laki-laki,Budi,Siti,Pedagang,Ibu Rumah Tangga,17
+Budi,Bandung,28/04/2007,Laki-laki,Citra,Ani,Pegawai Swasta,Pegawai Swasta,18
+Citra,Semarang,29/05/2007,Perempuan,Dewi,Ita,Pegawai Negeri,Ibu Rumah Tangga,16
+Dewi,Yogyakarta,30/06/2007,Perempuan,Eka,Desi,Pedagang,Ibu Rumah Tangga,16
